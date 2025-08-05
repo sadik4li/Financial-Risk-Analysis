@@ -88,3 +88,5 @@ Technical Notes:
 ► Data Source: Based on the attached dataset comprising firm-level, annual, and engagement-level raw data—fully reproducible and extensible for further insights.
 
 This dashboard empowers accountants, auditors, compliance teams, and executives to explore, analyze, and communicate performance and risk data visually and interactively, aligning with best practices for data-driven audit management in large organizations.
+
+preview : ![Dashboard Preview]()
