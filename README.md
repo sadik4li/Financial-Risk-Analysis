@@ -59,7 +59,8 @@ Client Satisfaction & Audit Effectiveness by Firm (Bar Chart):
 
 ► PwC, KPMG, Ernst & Young follow, providing a comparative performance view.
 
-Dataset Overview
+Dataset Overview:
+
 The source data includes:
 
 ► Detailed yearly engagement records for each firm
@@ -70,7 +71,8 @@ The source data includes:
 
 ► AI adoption (“Yes/No”) per engagement
 
-Use Cases
+Use Cases:
+
 ► Benchmarking & Reporting: Easily identify which firm or industry leads in specific KPIs.
 
 ► AI Transformation Tracking: Quantify the impact and adoption trends of AI in auditing.
@@ -79,7 +81,8 @@ Use Cases
 
 ► Performance Improvement: Visualize and analyze trends to strategize for better audit effectiveness or client satisfaction.
 
-Technical Notes
+Technical Notes:
+
 ► Interactivity: The dashboard’s slicers enable quick drilldown by year or firm.
 
 ► Data Source: Based on the attached dataset comprising firm-level, annual, and engagement-level raw data—fully reproducible and extensible for further insights.
