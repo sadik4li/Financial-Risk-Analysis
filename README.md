@@ -89,4 +89,4 @@ Technical Notes:
 
 This dashboard empowers accountants, auditors, compliance teams, and executives to explore, analyze, and communicate performance and risk data visually and interactively, aligning with best practices for data-driven audit management in large organizations.
 
-preview : ![Dashboard Preview]()
+preview : ![Dashboard Preview](https://github.com/sadik4li/Financial-Risk-Analysis/blob/main/Screenshot%202025-07-15%20171156.png)
